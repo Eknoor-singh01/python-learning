@@ -11,7 +11,7 @@ engineer and study in Germany.
 Started learning Python from June 2026
 to build skills for my future.
 
-## Level 1 — Basics 🟢
+## Level 1 — Basics 
 - [x] hello.py - First Python program ✅
 - [ ] calculator.py
 - [ ] temperature_converter.py
